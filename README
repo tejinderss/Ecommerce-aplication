@@ -1,0 +1,8 @@
+Dependencies:
+    Python Imaging Library (PIL) or Pillow
+
+Additional Notes:
+Fill in the database settings in project's settings.py file and type in your login id and pass for Authorize.net transactions.
+Authorize.net specific settings are:
+AUTHNET_POST_URL, AUTHNET_POST_PATH, AUTHNET_LOGIN and AUTHNET_KEY 
+
